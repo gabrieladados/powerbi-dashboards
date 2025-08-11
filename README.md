@@ -1,4 +1,4 @@
-# Dashboards no Power BI <img align="right" src="https://github.com/user-attachments/assets/8dfd63c5-66ce-41ef-b8f9-26071081c8d6" alt="Logo do Power BI" width="120"/>
+# Dashboards no Power BI <img align="right" src="https://github.com/user-attachments/assets/16f97eb2-45c0-4a85-9df2-625c136e5069" alt="Logo do Power BI" width="180"/>
 
 Este repositório reúne **dashboards autorais desenvolvidos no Power BI** para cenários de negócios simulados, incluindo análises de **performance em Recrutamento & Seleção** e **Controle Financeiro**. 
 
@@ -14,7 +14,7 @@ A Axion é uma empresa fictícia de tecnologia com operações no Brasil e Europ
 Este dashboard foi desenvolvido para oferecer controle financeiro integrado, proporcionando visibilidade completa sobre receitas, despesas e rentabilidade por projeto. A ferramenta permite análises temporais, simulações de cenários e monitoramento de KPIs essenciais para a tomada de decisão estratégica.
 
 <p align="center">
-  <img alt="Dashboard de Controle Financeiro" src="https://github.com/user-attachments/assets/01ed1930-a7fe-4c8b-bb83-409f4728a7ce" width="80%">
+  <img alt="Dashboard de Controle Financeiro" src="https://github.com/user-attachments/assets/4ef5fcf3-7367-488c-964b-52d47f27fb53" width="80%">
 </p>
 
 ### **Público-Alvo:**  
@@ -54,7 +54,7 @@ O Grupo Prisma é uma empresa fictícia de consultoria empresarial especializada
 Este dashboard foi desenvolvido para centralizar e monitorar todos os processos de recrutamento e seleção do Grupo Prisma. A ferramenta oferece visibilidade completa sobre performance dos recrutadores, eficiência dos processos, funil de candidatos e métricas de SLA, permitindo otimização contínua da estratégia de talentos.
 
 <p align="center">
-  <img alt="Dashboard de Performance do R&S" src="https://github.com/user-attachments/assets/bd3e29cc-b75a-40c3-9e61-c1fb680e5d2e" width="80%">
+  <img alt="Dashboard de Performance do R&S" src="https://github.com/user-attachments/assets/79d474e8-2f22-4d7d-8fb5-a453302142aa" width="80%">
 </p>
 
 
