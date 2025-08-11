@@ -4,7 +4,45 @@ Este repositório contém uma coleção de dashboards desenvolvidos no Power BI,
 
 <br> 
 
-## 1. Dashboard de Performance do R&S 
+## 1. Dashboard de Controle Financeiro
+
+### Contexto de Negócio
+A Axion é uma empresa fictícia de tecnologia especializada em soluções corporativas, com operações distribuídas em múltiplos projetos e regiões. Com presença no Brasil e Europa, a empresa desenvolve projetos customizados que incluem desde atendimento presencial e à distância até desenvolvimento de produtos e consultoria especializada.
+
+### Visão Geral do Dashboard
+Este dashboard foi desenvolvido para oferecer uma visão abrangente e estratégica do controle financeiro da Axion, proporcionando insights essenciais para a gestão eficiente dos recursos da empresa. A ferramenta integra múltiplas dimensões financeiras em uma interface intuitiva e interativa.
+
+<p align="center">
+  <img width="1396" height="788" alt="image" src="https://github.com/user-attachments/assets/1fb77569-815c-4509-95c6-a2903760eac3" />
+</p>
+
+### **Público-Alvo:**  
+- Gestores Financeiros: Monitoramento estratégico do desempenho financeiro
+- Diretoria Executiva: Visão macro para tomada de decisões estratégicas
+- Gerentes de Projeto: Acompanhamento da performance financeira por centro de custo
+
+### Perguntas Respondidas
+- Como está a saúde financeira geral da empresa? 
+- Quais projetos são mais rentáveis? 
+- Quais categorias de despesas precisam de atenção? 
+- Qual o impacto de mudanças operacionais no resultado?
+
+
+### **Principais Indicadores:**
+- Receita e Despesa Operacional com variação anual (YoY)
+- Fluxo de Caixa e Margem Líquida
+- Margem Operacional com comparativos temporais
+- Evolução do saldo mensal
+- Comparativo de entradas vs saídas
+- Análise de despesas fixas vs variáveis
+
+### **Acesse o Dashboard:**
+- Explore o dashboard interativo no Power BI clicando nesse link: [Acessar Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZjUwYTllZGYtZDVhMi00NjYyLTkwOTYtYzBkYjc3Njc1NzRlIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9](https://app.powerbi.com/view?r=eyJrIjoiNTdhMGZjY2MtMDVmMy00N2FlLWI4MmEtM2Q0MDc2OTRiODgwIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9)).
+
+
+---
+
+## 2. Dashboard de Performance do R&S 
 
 Este dashboard tem como foco monitorar e otimizar a performance do processo de recrutamento e seleção (R&S). Ele oferece uma visão detalhada sobre o funil das etapas do processo seletivo, tempo médio das etapas, desempenho dos recrutadores e status das vagas, permitindo que a equipe identifique gargalos, acompanhe KPIs essenciais e tome decisões rápidas para melhorar a eficiência das contratações.
 
@@ -34,39 +72,7 @@ Este dashboard tem como foco monitorar e otimizar a performance do processo de r
 
 <br>
 
-## 2. Dashboard de Controle de Fluxo de Caixa
 
-Este dashboard foi desenvolvido para monitorar o fluxo de caixa da empresa, oferecendo uma visão clara sobre receitas, despesas e o saldo final ao longo do tempo. Além disso, conta com um simulador **What-If**, permitindo a análise de diferentes cenários financeiros para tomada de decisões estratégicas.
-
-<p align="center">
-  <img alt="Dashboard de Controle de Fluxo de Caixa" src="https://github.com/user-attachments/assets/eddd51f3-fd97-4515-8373-4eb09cfa26dc" width="80%">
-</p>
-
-### **Público-Alvo:**  
-- Gestores Financeiros  
-- Analistas Financeiros
-
-### Perguntas Respondidas
-- Como o saldo de caixa evoluiu ao longo dos meses?  
-- Quais categorias de despesas mais impactam o fluxo de caixa?  
-- Como diferentes cenários financeiros afetam o saldo final?  
-- Qual a margem de lucro atual?  
-
-
-### **Principais Indicadores:**
-- **Total de Entradas:** Valor total de receitas geradas no período.
-- **Total de Saídas:** Valor total de despesas realizadas.
-- **Saldo Final:** Diferença entre entradas e saídas, representando o saldo disponível.
-- **Margem de Lucro:** Percentual de lucro em relação à receita total.
-- **Evolução do Saldo:** Análise gráfica da variação do saldo ao longo dos meses.
-- **Distribuição de Despesas:** Classificação das despesas por categoria, incluindo impostos, gastos comerciais, administrativos, serviços e pessoal.
-
-
-### **Acesse o Dashboard:**
-- Explore o dashboard interativo no Power BI clicando nesse link: [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUwYTllZGYtZDVhMi00NjYyLTkwOTYtYzBkYjc3Njc1NzRlIiwidCI6ImQzZWEyNTg3LTNmNDItNDcwZS05Y2QyLTQ5MDYzMTI2MzExOSJ9).
-
-
----
 
 ## Meu Processo de Desenvolvimento de Dashboards
 
