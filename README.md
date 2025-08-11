@@ -1,6 +1,6 @@
 # Dashboards no Power BI <img align="right" src="https://github.com/user-attachments/assets/8dfd63c5-66ce-41ef-b8f9-26071081c8d6" alt="Logo do Power BI" width="120"/>
 
-Este repositório reúne dashboards autorais desenvolvidos no Power BI para cenários de negócios simulados, incluindo análises de performance em Recrutamento & Seleção e Controle Financeiro. 
+Este repositório reúne **dashboards autorais desenvolvidos no Power BI** para cenários de negócios simulados, incluindo análises de **performance em Recrutamento & Seleção** e **Controle Financeiro**. 
 
 
 <br> 
